@@ -5,5 +5,5 @@
  - **네이버 소셜로그인** 기능 구현
  - 마커 클릭 시, **Bottom Sheet Dialog** 에서 도서관 정보 출력
 <center>
-<img  src="https://im2.ezgif.com/tmp/ezgif-2-00b58986297b.gif">
+<img  src="https://user-images.githubusercontent.com/69616347/120540092-3e1e3a80-c423-11eb-9c7b-c16a5d6427ef.gif">
 </center>
