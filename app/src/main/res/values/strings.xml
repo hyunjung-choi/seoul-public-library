@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SeoulPublicLibrary</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="naver_client_id">Vgnn8MnMrqUmGcIOVSFH</string>
+    <string name="naver_client_secret">9avRbp6Ddq</string>
+    <string name="naver_client_name">seoulPublicLibrary</string>
+</resources>
